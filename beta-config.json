@@ -1,0 +1,23 @@
+{
+  "_comment": "GridIQ Beta Access Config \u2014 edit this file to control beta access instantly",
+  "beta_enabled": true,
+  "keys": [
+    {
+      "hash": "3b7d2d7ba162e5e0d66f71ace2a8cfe48f7bca4266a42d92fa6cbf091ea1a6f6",
+      "label": "General Beta",
+      "active": true
+    },
+    {
+      "hash": "01d16042565b89f6ff3ab280922f4fdb6ce81141db234b1e50e69dba80a3bdf7",
+      "label": "Tester Slot A",
+      "active": true
+    },
+    {
+      "hash": "c85073c6f1ce84a0227fa9cc3b0c60155fcb2eadabb6cbf8aeef577864686227",
+      "label": "Tester Slot B",
+      "active": true
+    }
+  ],
+  "owner_hash": "871a47c7a7376af20fffd1437db56b909757dd972d77559ecd5de72f6b7abbf1",
+  "kill_message": "Beta access has ended. Thank you for testing GridIQ!"
+}
