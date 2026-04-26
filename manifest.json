@@ -1,0 +1,30 @@
+{
+  "name": "GridIQ Fantasy Football",
+  "short_name": "GridIQ",
+  "description": "The most powerful fantasy football draft analyzer. Search any NFL player, analyze 25 performance markers, run mock drafts with animated CPU picks, and compare players side-by-side across ESPN, Yahoo, DraftKings, and Standard scoring.",
+  "start_url": "/gridiq/",
+  "scope": "/gridiq/",
+  "display": "standalone",
+  "background_color": "#0F1E16",
+  "theme_color": "#10B981",
+  "orientation": "portrait-primary",
+  "categories": ["sports", "utilities"],
+  "lang": "en-US",
+  "icons": [
+    {
+      "src": "/gridiq/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/gridiq/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "related_applications": [],
+  "prefer_related_applications": false
+}
